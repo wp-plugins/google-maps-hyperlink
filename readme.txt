@@ -9,7 +9,7 @@ Converts a shortcode with the format [gmaplink name="description" gps="xºxx.xxx
 
 == Description ==
 
-Converts a shortcode with the format [gmaplink name="description" gps="xºxx.xxxN,xºxx.xxxW"]  to a google maps query hyperlink in the format  http://maps.google.com/maps?q=[gps]+([name])
+Converts a shortcode with the format [gmaplink name="description" gps="xºxx.xxxN,xºxx.xxxW"]  to a google maps query hyperlink in the format  http://maps.google.com/maps?q=xºxx.xxxN,xºxx.xxxW+(description) and "description" as the hyperlink text
 
 the gps field can be any format that the google maps query accepts.
 
