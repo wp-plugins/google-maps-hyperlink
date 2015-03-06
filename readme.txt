@@ -2,7 +2,7 @@
 Contributors: claudiotereso
 Tags: gps,google maps
 Requires at least: 2.5
-Tested up to: 3.2.1
+Tested up to: 4.1.1
 Stable tag: 1.0
 
 Converts a shortcode with the format [gmaplink name="description" gps="xºxx.xxxN,xºxx.xxxW"]  to a google maps hyperlink
